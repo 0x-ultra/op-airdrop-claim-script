@@ -1,0 +1,16 @@
+.DS_Store
+node_modules
+
+#Hardhat files
+cache
+artifacts
+build
+flats
+
+# foundry
+out
+
+# Coverage
+coverage
+coverage.json
+bin
